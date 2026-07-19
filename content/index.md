@@ -1,10 +1,14 @@
 ---
-title: Home
+title: Junkai Embedded Lab
 ---
 
 # Junkai Embedded Lab
 
-Embedded Systems Engineer
+Embedded Systems Knowledge Base
+
+## About
+
+嵌入式软件工程师技术知识库。
 
 ## Focus
 
@@ -15,6 +19,6 @@ Embedded Systems Engineer
 - RISC-V
 - Edge AI
 
-## About
+## Recent Notes
 
-记录嵌入式系统、实时操作系统和芯片技术学习笔记。
+持续记录芯片、操作系统、调试工具和工程实践。
